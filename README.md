@@ -1,2 +1,2 @@
 # PythonCapstone
-Repository to submit assignment
+Repository to submit assignment.
